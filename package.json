@@ -1,0 +1,10 @@
+{
+  "name": "Quizbot",
+  "version": "1.0.0",
+  "description": "My own Discord bot",
+  "main": "bot.js",
+  "author": "SirBrainless",
+  "dependencies": {
+    "discord.js": "^2.5.3",
+  }
+}
